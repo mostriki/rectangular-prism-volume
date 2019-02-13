@@ -1,0 +1,6 @@
+# Jet Brains IDE
+.idea/
+
+# CMake
+cmake-build-*/
+CMakeLists.txt
