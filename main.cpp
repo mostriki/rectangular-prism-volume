@@ -2,7 +2,7 @@
  * *
  * *    Program Name: Volume of a Rectangular Prism
  * *    Filename: main.cpp
- * *    Autho: Riki Montgomery
+ * *    Author: Riki Montgomery
  * *    Date: February 12, 2019
  * *    Assignment:
  * *
